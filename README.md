@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on anything (not sure i will be useful)
 - 🤔 I’m looking for help with pu-pu-pu
 - 💬 Ask me about averything
-- 📫 How to reach me: t.me/pelmeshke
+- 📫 How to reach me: [@pelmeshke](t.me/pelmeshke)
 - 😄 Pronouns: he/he/he
 - ⚡ Fun fact: i like qiwi
 
