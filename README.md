@@ -1,5 +1,6 @@
 - 🔭 I’m currently working on [Peluserbot](https://github.com/pelmesh619/PelUserbot-2.0)
 - 🌱 I’m currently learning RUST
+- 🏛️ I'm currently studing at ITMO University
 - 👯 I’m looking to collaborate on anything (not sure i will be useful)
 - 📚 Currently I know: Python, C++, RUST, LaTeX
 - 💬 Ask me about averything
