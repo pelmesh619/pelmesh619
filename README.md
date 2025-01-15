@@ -15,7 +15,7 @@
 
 - 😼 Feel free to contribute to my projects
 
-- 📊📈📉 Some of my stats:
+- 📊📈📉 Some of my stats from wakatime.com:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@07cfd484-7ada-46d4-9b0a-1ca1a8a3fcf9/e7deb223-b0a5-4ccd-9c8f-05505a2883b9.png"/></a>
 
