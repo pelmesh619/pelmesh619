@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on [physics_demos](https://github.com/pelmesh619/physics_demos)
-- 🌱 I’m currently learning C# and Object Oriented Programming 🌯🌯🌯🌯
+- 🌱 I’m currently learning nothing 😼
 - 🏛️ I'm currently studing at ITMO University
 - 👯 I’m looking to collaborate on anything (not sure i will be useful)
 - 📚 Currently I know: Python, C++, RUST, LaTeX, C#, JavaScript
