@@ -17,6 +17,6 @@
 
 - 📊📈📉 Some of my stats from wakatime.com:
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@pelmeshke/b15e23e3-479c-448d-9f70-81c7df53c889.svg"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@pelmeshke/fc5fca3b-0452-4389-9d89-3a9289987756.svg"/></a>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pelmeshke/503fba4c-53a6-48b0-9847-8229604672eb.svg" width="500px"/></a>
