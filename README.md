@@ -12,6 +12,7 @@
   * [PelUserbot 2.0](https://github.com/pelmesh619/PelUserbot-2.0), a powerful userbot for Telegram
   * [Hamming archiver](https://github.com/pelmesh619/my_archiver), my error-correcting archiver that uses Hamming code
   * [ITMO Conspects](https://github.com/pelmesh619/itmo_conspects), conspects of subjects in Software Engineering at ITMO
+  * [splimer](https://github.com/pelmesh619/splimer), program for splitting large files and directories into smaller ones
 
 - 😼 Feel free to contribute to my projects
 
