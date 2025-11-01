@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Rust 🦀 and Machine Learning 🎰
 - 👯 I’m looking to collaborate on interesting projects (not sure i will be useful)
 - 📫 How to reach me: [t.me/pelmeshke](https://t.me/pelmeshke) – don't hesitate to write me
-- 🛠️ Here are the technologies and languages I've worked with:`Python`, `C++`, `Rust`, `Java`, `C#`, `JavaScript`, `LaTeX`
+- 🛠️ Here are the technologies and languages I've worked with: `🐍 Python`, `🔧 C++`, `🦀 Rust`, `☕ Java`, `🎼 C#`, `🌐 JavaScript`, `📄 LaTeX`
 
 ### My Top Projects
 
