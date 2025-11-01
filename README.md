@@ -10,10 +10,10 @@
 ### My Top Projects
 
 *   [itmo_conspects](https://github.com/pelmesh619/itmo_conspects) – An ongoing repository of conspects for the Software Engineering program at ITMO
-*   [PelUserbot-2.0](https://github.com/pelmesh619/PelUserbot-2.0) – A powerful and modular userbot for Telegram written in Python
-*   [my_archiver](https://github.com/pelmesh619/my_archiver) – An error-correcting archiver implementation using Hamming codes written in C++
-*   [splimer](https://github.com/pelmesh619/splimer) – A utility for splitting large files and directories into smaller, manageable parts written in Rust
-*   [physics_demos](https://github.com/pelmesh619/physics_demos) – Demonstrations of physical laws and principals written in JavaScript
+*   [PelUserbot-2.0](https://github.com/pelmesh619/PelUserbot-2.0) – A powerful and modular userbot for Telegram written in `Python`
+*   [my_archiver](https://github.com/pelmesh619/my_archiver) – An error-correcting archiver implementation using Hamming codes written in `C++`
+*   [splimer](https://github.com/pelmesh619/splimer) – A utility for splitting large files and directories into smaller, manageable parts written in `Rust`
+*   [physics_demos](https://github.com/pelmesh619/physics_demos) – Demonstrations of physical laws and principals written in `JavaScript`
 
 ### My Coding Stats
 
