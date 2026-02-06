@@ -2,7 +2,7 @@
 
 - 🏛️ A Software Engineering student at ITMO University
 - 🔭 I’m currently working on [itmo_conspects](https://github.com/pelmesh619/itmo_conspects)
-- 🌱 I’m currently learning Rust 🦀 and Machine Learning 🎰
+- 🌱 I’m currently learning Android application development 🤖
 - 👯 I’m looking to collaborate on interesting projects (not sure i will be useful)
 - 📫 How to reach me: [t.me/pelmeshke](https://t.me/pelmeshke) – don't hesitate to write me
 - 🛠️ Here are the technologies and languages I've worked with: `🐍 Python`, `🔧 C++`, `🦀 Rust`, `☕ Java`, `🎼 C#`, `🌐 JavaScript`, `📄 LaTeX`
@@ -10,7 +10,6 @@
 ### My Top Projects
 
 *   [itmo_conspects](https://github.com/pelmesh619/itmo_conspects) – An ongoing repository of conspects for the Software Engineering program at ITMO
-*   [PelUserbot-2.0](https://github.com/pelmesh619/PelUserbot-2.0) – A powerful and modular userbot for Telegram written in `Python`
 *   [my_archiver](https://github.com/pelmesh619/my_archiver) – An error-correcting archiver implementation using Hamming codes written in `C++`
 *   [splimer](https://github.com/pelmesh619/splimer) – A utility for splitting large files and directories into smaller, manageable parts written in `Rust`
 *   [physics_demos](https://github.com/pelmesh619/physics_demos) – Demonstrations of physical laws and principals written in `JavaScript`
