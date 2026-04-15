@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Android application development 🤖
 - 👯 I’m looking to collaborate on interesting projects (not sure i will be useful)
 - 📫 How to reach me: [t.me/pelmeshke](https://t.me/pelmeshke) – don't hesitate to write me
-- 🛠️ Here are the technologies and languages I've worked with: `🐍 Python`, `🔧 C++`, `🦀 Rust`, `☕ Java`, `🎼 C#`, `🌐 JavaScript`, `📄 LaTeX`
+- 🛠️ Here are the technologies and languages I've worked with: `🐍 Python`, `🔧 C++`, `🦀 Rust`, `☕ Java`, `🎼 C#`, `🌐 JavaScript`, `📄 LaTeX`, `✒️ Typst`, `🤖 Android`, `🏰 Kotlin`
 
 ### My Top Projects
 
@@ -18,9 +18,13 @@
 
 Here's a look at my coding activity (powered by WakaTime):
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@pelmeshke/fc5fca3b-0452-4389-9d89-3a9289987756.svg"/></a>
+* Language stats
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@pelmeshke/503fba4c-53a6-48b0-9847-8229604672eb.svg" width="500px"/></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pelmeshke/fc5fca3b-0452-4389-9d89-3a9289987756.svg"/></a>
+
+* Time per day stats
+
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pelmeshke/503fba4c-53a6-48b0-9847-8229604672eb.svg" width="500px"/></a>
 
 ---
 
