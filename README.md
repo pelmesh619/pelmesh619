@@ -9,7 +9,7 @@
 
 ### My Top Projects
 
-*   [itmo_conspects](https://github.com/pelmesh619/itmo_conspects) – An ongoing repository of conspects for the Software Engineering program at ITMO
+*   [itmo_conspects](https://github.com/pelmesh619/itmo_conspects) – An ongoing repository of conspects (of more than 25 subjects) for the Software Engineering program at ITMO
 *   [my_archiver](https://github.com/pelmesh619/my_archiver) – An error-correcting archiver implementation using Hamming codes written in `C++`
 *   [splimer](https://github.com/pelmesh619/splimer) – A utility for splitting large files and directories into smaller, manageable parts written in `Rust`
 *   [physics_demos](https://github.com/pelmesh619/physics_demos) – Demonstrations of physical laws and principals written in `JavaScript`
