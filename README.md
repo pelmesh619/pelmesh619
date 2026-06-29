@@ -1,8 +1,8 @@
 ### About Me
 
 - 🏛️ A Software Engineering student at ITMO University
-- 🔭 I’m currently working on [itmo_conspects](https://github.com/pelmesh619/itmo_conspects)
-- 🌱 I’m currently learning Android application development 🤖
+- 🔭 I’m currently working on Unnamed Game
+- 🌱 I’m currently learning Unity game development ⚙️
 - 👯 I’m looking to collaborate on interesting projects (not sure i will be useful)
 - 📫 How to reach me: [t.me/pelmeshke](https://t.me/pelmeshke) – don't hesitate to write me
 - 🛠️ Here are the technologies and languages I've worked with: `🐍 Python`, `🔧 C++`, `🦀 Rust`, `☕ Java`, `🎼 C#`, `🌐 JavaScript`, `📄 LaTeX`, `✒️ Typst`, `🤖 Android`, `🏰 Kotlin`
